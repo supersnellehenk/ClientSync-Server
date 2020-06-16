@@ -1,0 +1,6 @@
+config/
+mods/
+.idea/
+.vs/
+bin/
+obj/
